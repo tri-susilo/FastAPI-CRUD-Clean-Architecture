@@ -50,8 +50,8 @@ A clean, modular REST API built with **FastAPI**, **SQLModel**, and **MySQL**, f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi_clean_crud.git
-cd fastapi_clean_crud
+git clone https://github.com/tri-susilo/FastAPI-CRUD-Clean-Architecture.git
+cd FastAPI-CRUD-Clean-Architecture
 ```
 
 ### 2. Create and Activate Virtual Environment
